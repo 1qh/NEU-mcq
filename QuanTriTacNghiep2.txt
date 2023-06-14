@@ -1,0 +1,901 @@
+1
+Chọn câu trả lời sai: Nhiệm vụ của kế hoạch trung hạn
+Phân công công việc cho từng đối tượng cụ thể.
+2
+Lượng sản xuất ngoài giờ (lượng sản phẩm hợp đồng phụ) , được tính
+Nhu cầu - Mức sản xuất trong giờ
+3
+Nhu cầu sản phẩm từng ngày, được tính bằng
+Nhu cầu trong tháng / Số ngày sản xuất trong tháng
+4
+Ưu điểm của chiến lược dùng công nhân làm việc bán thời gian
+Giảm chi phí và tăng độ linh hoạt hơn là dùng công nhân có hợp đồng dài hạn không phải trả bảo hiểm lao động.
+5
+Nhân tố nào là nhân tố ảnh hưởng đến hoạch định tổng hợp
+Tất cả các ý kiến trên
+6
+Chiến lược hợp đồng phụ thường dùng
+Trong khu vực sản xuất
+7
+Nhược điểm của chiến lược “tác động đến nhu cầu”
+Nhu cầu không chắc chắn
+8
+Kế hoạch ngắn hạn bao gồm
+Phân công việc và đặt hàng.
+9
+Chiến lược nào thường tốn chi phí cao và tạo dịp cho khách hàng của mình tiếp xúc với đối thủ cạnh tranh
+Hợp đồng phụ
+10
+Trong những công việc sau, công việc nào nằm trong kế hoạch dài hạn
+Nghiên cứu và phát triển.
+11
+Chiến lược hỗn hợp là chiến lược như thế nào
+Là chiến lược kết hợp hai hay nhiều thông số kiểm soát được để lập 1 kế hoạch sản xuất khả thi
+12
+Nhân tố nào là nhân tố ảnh hưởng đến hoạch định tổng hợp
+Tất cả ý kiến trên
+13
+Công thức của chiến lược thay đổi mức tồn kho là
+Tồn kho tháng trước + Tồn kho phát sinh mỗi tháng
+The correct answers are: Tồn kho cuối mỗi tháng, Tồn kho tháng trước + Tồn kho phát sinh mỗi tháng., Mức sản xuất trong giờ - Nhu cầu., Tồn kho tháng trước - Tồn kho phát sinh mỗi tháng., Mức sản xuất trong giờ + Nhu cầu.
+14
+Ưu điểm của chiến lược “ sản xuất sản phẩm hỗn hợp theo mùa
+Tận dụng mọi nguồn tài nguyên, giúp ổn định được nhân lực
+15
+Khoảng thời gian đối với kế hoạch ngắn hạn là
+1 tháng
+16
+Nhược điểm của chiến lược “tác động đến nhu cầu”
+Nhu cầu không chắc chắn
+17
+Đặt cọc trước nằm trong giai đoạn nào
+Nhu cầu cao
+18
+Đâu không phải là nhược điểm của chiến lược thay đổi cường độ lao động
+Năng suất lao động có thể bị giảm
+19
+Nhược điểm của chiến lược thay đổi nhân lực theo mức cầu
+Tăng chi phí đào tạo
+20
+Chọn câu trả lời sai: Nhiệm vụ của kế hoạch trung hạn:
+Phân công công việc cho từng đối tượng cụ thể.
+21
+Khi nào cần tăng cường mức sản xuất ngoài giờ
+Nhu cầu lớn hơn mức sản xuất trong giờ
+22
+Khi nào cần tăng cường làm thêm giờ
+Nhu cầu lớn hơn mức sản xuất trong giờ
+23
+Nhược điểm của chiến lược thay đổi cường độ lao động
+Tất cả các ý kiến trên
+24
+Các doanh nghiệp như khách sạn và hàng không có thể áp dụng chiến lược nào sau đây để đẩy số lượng khách hàng đặt chổ trước lên cao hơn
+Tác động đến nhu cầu
+25
+Ưu điểm của chiến lược thay đổi mức dự trữ là
+Không cần thay đổi hoặc chỉ thay đổi lực lượng lao động từ từ
+26
+Khoảng thời gian của từng loại kế hoạch. Chọn câu trả lời sai
+Kế hoạch ngắn hạn thường từ 3 tháng tới 1 năm.
+27
+Ưu điểm của chiến lược sản xuất sản phẩm hỗn hợp theo mùa là
+Tận dụng mọi nguồn tài nguyên, ổn định nhân lực
+28
+Các chi phí gồm phí tồn trữ, phí bảo hiểm, phí quản lý phí do hỏng mất mát và tăng cao do vốn đầu tư là những chi phí mà ta phải chịu khi ta chọn chiến lược
+Thay đổi mức tồn kho
+29
+Chọn câu trả lời đúng
+Dự báo dài hạn gồm: Nghiên cứu và phát triển, kế hoạch sản phẩm mới, sử dụng đồng vốn, định vị và phát triển doanh nghiệp.
+30
+Chiến lược sản xuất ngoài giờ có Lượng sản xuất ngoài giờ bằng
+Mức sản xuất trong giờ - nhu cầu
+31
+Đặt cọc trước nằm trong giai đoạn nào
+Nhu cầu cao
+32
+Trong quá trình lập kế hoạch, nhà quản trị cần quan tâm đến
+Kế hoạch ngắn hạn, trung hạn và dài hạn
+33
+Chọn câu sai trong các nhược điểm của chiến lược hợp đồng phụ
+Tốn thêm phí trả phụ trội, hạ thấp năng suất
+34
+Nhược điểm của chiến lược thay đổi mức dự trữ
+Tăng chi phí về vốn, gây ứ đọng vốn
+35
+Thay đổi nhân lực theo mức cầu là
+Bằng cách thuê thêm hay sa thải công nhân cho thích hợp với mức độ sản xuất từng một lúc
+36
+Nhược điểm của chiến lược thay đổi nhân lực theo mức cầu
+Tạo sức ép đối với người lao động
+37
+Khoảng thời gian đối với kế hoạch trung hạn là
+1 năm
+38
+Chiến lược nào thích hợp với những công việc không đòi hỏi tay nghề cao có thể như sinh viên học sinh, các bà nội trợ
+Chiến lược dùng công nhân làm việc bán thòi gian.
+39
+Hoạch định tổng hợp theo phương pháp trực quan
+Nhanh
+40
+Nhược điểm của chiến lược thay đổi mức dự trữ
+Giảm giá trị vô hình của sản phẩm
+41
+Ưu điểm của chiến lược sản xuất sản phẩm hỗn hợp theo mùa là
+Tận dụng mọi nguồn tài nguyên, ổn định nhân lực
+42
+Ưu điểm của chiến lược “ sản xuất sản phẩm hỗn hợp theo mùa
+Tận dụng mọi nguồn tài nguyên, giúp ổn định được nhân lực
+43
+Nhược điểm của chiến lược thay đổi cường độ lao động
+Tất cả các ý kiến trên
+44
+Nhược điểm của chiến lược thay đổi nhân lực theo mức cầu
+Tăng chi phí đào tạo
+45
+Khoảng thời gian của từng loại kế hoạch. Chọn câu trả lời sai
+Kế hoạch ngắn hạn thường từ 3 tháng tới 1 năm.
+46
+Chiến lược sản xuất ngoài giờ có Lượng sản xuất ngoài giờ bằng
+Mức sản xuất trong giờ - nhu cầu
+47
+Lượng sản xuất ngoài giờ (lượng sản phẩm hợp đồng phụ) , được tính
+Nhu cầu - Mức sản xuất trong giờ
+48
+Chiến lược nào thường tốn chi phí cao và tạo dịp cho khách hàng của mình tiếp xúc với đối thủ cạnh tranh
+Hợp đồng phụ
+49
+Ưu điểm của chiến lược dùng công nhân làm việc bán thời gian
+Giảm chi phí và tăng độ linh hoạt hơn là dùng công nhân có hợp đồng dài hạn không phải trả bảo hiểm lao động.
+50
+Nhược điểm của chiến lược thay đổi nhân lực theo mức cầu
+Tạo sức ép đối với người lao động
+51
+Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ chi tiết E và F, chi tiết C được cấu tạo từ E và G. Đâu là nhu cầu phụ thuộc của B
+Chi tiết F
+52
+Một chiếc loa A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Đâu là nhu cầu độc lập
+Sản phẩm A
+53
+Vai trò của Hoạch định nhu cầu nguyên vật liệu
+Tất cả các ý trên
+54
+Nhu cầu về những sản phẩm cuối cùng hoặc các chi tiết, bộ phận khách hàng đặt được gọi là:
+Nhu cầu độc lập
+55
+Vai trò của Hoạch định nhu cầu nguyên vật liệu
+Cả ý A và B
+56
+Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ 3 chi tiết E và 2 chi tiết F. Để sản xuất 50 sản phẩm A cần bao nhiêu chi tiết E
+300
+57
+Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ chi tiết E và F. Đâu là nhu cầu phụ thuộc
+Cả ý B và C
+58
+Những nhu cầu được tạo ra từ các nhu cầu độc lập, nó được tính toán từ quá trình phân tích sản phẩm thành các bộ phận, chi tiết và nguyên vật liệu được gọi là
+Nhu cầu phụ thuộc
+59
+Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ 3 chi tiết E và 2 chi tiết F. Để sản xuất 50 sản phẩm A cần bao nhiêu chi tiết F
+200
+60
+Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ chi tiết E và F, chi tiết C được cấu tạo từ E và G. Đâu là nhu cầu phụ thuộc của C
+Cả ý B và C
+61
+Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ chi tiết E và F, chi tiết C được cấu tạo từ E và G. Đâu là nhu cầu phụ thuộc của B
+Chi tiết F
+62
+Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ 3 chi tiết E và 2 chi tiết F. Để sản xuất 50 sản phẩm A cần bao nhiêu chi tiết E
+300
+63
+Vai trò của Hoạch định nhu cầu nguyên vật liệu
+Cả ý A và B
+64
+Vai trò của Hoạch định nhu cầu nguyên vật liệu
+Tất cả các ý trên
+65
+Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ 3 chi tiết E và 2 chi tiết F. Để sản xuất 50 sản phẩm A cần bao nhiêu chi tiết F
+200
+66
+Nhu cầu về những sản phẩm cuối cùng hoặc các chi tiết, bộ phận khách hàng đặt được gọi là:
+Nhu cầu độc lập
+67
+Những nhu cầu được tạo ra từ các nhu cầu độc lập, nó được tính toán từ quá trình phân tích sản phẩm thành các bộ phận, chi tiết và nguyên vật liệu được gọi là
+Nhu cầu phụ thuộc
+68
+Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ chi tiết E và F, chi tiết C được cấu tạo từ E và G. Đâu là nhu cầu phụ thuộc của C
+Cả ý B và C
+69
+Một chiếc loa A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Đâu là nhu cầu độc lập
+Sản phẩm A
+70
+Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ chi tiết E và F. Đâu là nhu cầu phụ thuộc
+Cả ý B và C
+71
+Một chiếc loa A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Đâu là nhu cầu độc lập
+Sản phẩm A
+72
+Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ 3 chi tiết E và 2 chi tiết F. Để sản xuất 50 sản phẩm A cần bao nhiêu chi tiết E
+300
+73
+Vai trò của Hoạch định nhu cầu nguyên vật liệu
+Tất cả các ý trên
+74
+Nhu cầu về những sản phẩm cuối cùng hoặc các chi tiết, bộ phận khách hàng đặt được gọi là:
+Nhu cầu độc lập
+75
+Những nhu cầu được tạo ra từ các nhu cầu độc lập, nó được tính toán từ quá trình phân tích sản phẩm thành các bộ phận, chi tiết và nguyên vật liệu được gọi là
+Nhu cầu phụ thuộc
+76
+Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ chi tiết E và F. Đâu là nhu cầu phụ thuộc
+Cả ý B và C
+77
+Vai trò của Hoạch định nhu cầu nguyên vật liệu
+Cả ý A và B
+78
+Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ chi tiết E và F, chi tiết C được cấu tạo từ E và G. Đâu là nhu cầu phụ thuộc của C
+Cả ý B và C
+79
+Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ chi tiết E và F, chi tiết C được cấu tạo từ E và G. Đâu là nhu cầu phụ thuộc của B
+Chi tiết F
+80
+Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ 3 chi tiết E và 2 chi tiết F. Để sản xuất 50 sản phẩm A cần bao nhiêu chi tiết F
+200
+81
+Nhu cầu về những sản phẩm cuối cùng hoặc các chi tiết, bộ phận khách hàng đặt được gọi là:
+Nhu cầu độc lập
+82
+Một chiếc loa A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Đâu là nhu cầu độc lập
+Sản phẩm A
+83
+Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ chi tiết E và F. Đâu là nhu cầu phụ thuộc
+Cả ý B và C
+84
+Vai trò của Hoạch định nhu cầu nguyên vật liệu
+Tất cả các ý trên
+85
+Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ 3 chi tiết E và 2 chi tiết F. Để sản xuất 50 sản phẩm A cần bao nhiêu chi tiết E
+300
+86
+Vai trò của Hoạch định nhu cầu nguyên vật liệu
+Cả ý A và B
+87
+Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ chi tiết E và F, chi tiết C được cấu tạo từ E và G. Đâu là nhu cầu phụ thuộc của B
+Chi tiết F
+88
+Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ chi tiết E và F, chi tiết C được cấu tạo từ E và G. Đâu là nhu cầu phụ thuộc của C
+Cả ý B và C
+89
+Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ 3 chi tiết E và 2 chi tiết F. Để sản xuất 50 sản phẩm A cần bao nhiêu chi tiết F
+200
+90
+Những nhu cầu được tạo ra từ các nhu cầu độc lập, nó được tính toán từ quá trình phân tích sản phẩm thành các bộ phận, chi tiết và nguyên vật liệu được gọi là
+Nhu cầu phụ thuộc
+91
+Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ 3 chi tiết E và 2 chi tiết F. Để sản xuất 50 sản phẩm A cần bao nhiêu chi tiết F
+200
+92
+Một chiếc loa A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Đâu là nhu cầu độc lập
+Sản phẩm A
+93
+Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ chi tiết E và F. Đâu là nhu cầu phụ thuộc
+Cả ý B và C
+94
+Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ chi tiết E và F, chi tiết C được cấu tạo từ E và G. Đâu là nhu cầu phụ thuộc của B
+Chi tiết F
+95
+Những nhu cầu được tạo ra từ các nhu cầu độc lập, nó được tính toán từ quá trình phân tích sản phẩm thành các bộ phận, chi tiết và nguyên vật liệu được gọi là
+Nhu cầu phụ thuộc
+96
+Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ 3 chi tiết E và 2 chi tiết F. Để sản xuất 50 sản phẩm A cần bao nhiêu chi tiết E
+300
+97
+Vai trò của Hoạch định nhu cầu nguyên vật liệu
+Cả ý A và B
+98
+Nhu cầu về những sản phẩm cuối cùng hoặc các chi tiết, bộ phận khách hàng đặt được gọi là:
+Nhu cầu độc lập
+99
+Vai trò của Hoạch định nhu cầu nguyên vật liệu
+Tất cả các ý trên
+100
+Một sản phầm A gồm 2 chi tiết B, 5 chi tiết C, và 3 chi tiết D. Chi tiết B được cấu tạo từ chi tiết E và F, chi tiết C được cấu tạo từ E và G. Đâu là nhu cầu phụ thuộc của C
+Cả ý B và C
+101
+Dựa theo chỉ tiêu CRi, đâu là công việc không kịp hoàn thành đúng thời hạn
+0.8
+102
+Nội dung của quá trình điều độ sản xuất
+Tất cả ý kiến trên
+103
+Các nguyên tắc sắp xếp thứ tự công việc,gồm:
+FCFS,EDD,SPT,LPT,tỷ lệ tới hạn trước làm trước.
+104
+Thuật toán Hungary vận dụng trong điều độ cho bao nhiêu công việc
+Nhiều đối tượng
+105
+Nguyên tắc sắp xếp thứ tự công việc EDD là:
+Công việc có thời điểm giao hàng trước làm trước
+106
+CR = 1 có ý nghĩa gì
+Công việc hoàn thành đúng thời hạn
+107
+Mục tiêu của nguyên tắc Johnson 
+Phải làm sao cho tổng thời gian thực hiện các công việc là nhỏ nhất
+108
+CR < 1 có ý nghĩa gì
+Công việc hoàn thành không đúng thời hạn
+109
+Nguyên tắc SPT có nghĩa:
+Công việc có thời gian thực hiện ngắn nhất làm trước.
+110
+« Liệt kê các công việc và thời gian thực hiện chúng trên từng máy, tìm công việc có thời gian nhỏ nhất », đây là một trong các bước của nguyên tắc 
+Johnson
+111
+CR > 1 có ý nghĩa gì
+Công việc hoàn thành trước thời hạn
+112
+Nguyên tắc sắp xếp thứ tự công việc LPT là:
+Công việc có thời gian thực hiện dài nhất làm trước
+113
+Hôm nay là ngày 22, công việc A cần 4 ngày đã hoàn thành và đến ngày 28 phải bàn giao. Tính CRi
+1.5
+114
+Hôm nay là ngày 10, công việc A cần 10 ngày đã hoàn thành và đến ngày 15 phải bàn giao. Tính CRi
+0.5
+115
+Hôm nay là ngày 22, công việc A cần 12 ngày đã hoàn thành và đến ngày 30 phải bàn giao. Tính CRi
+0.67
+116
+Hôm nay là ngày 22, công việc A cần 4 ngày đã hoàn thành và đến ngày 26 phải bàn giao. Tính CRi
+1
+117
+Dựa theo chỉ tiêu CRi, đâu là công việc hoàn thành đúng thời hạn
+1
+118
+Bước thứ 1 trong bài toán Hungary là:
+Chọn số nhỏ nhất trên mỗi hàng, lấy tất cả các số trên hàng trừ cho số nhỏ nhất đó.
+119
+Bước thứ 2 trong bài toán Hungary là
+Chọn số nhỏ nhất trên mỗi cột, lấy tất cả các số trên cột trừ cho số nhỏ nhất đó.
+120
+Điều độ sản xuất là
+Những hoạt động xây dựng lịch trình sản xuất trong từng tuần cụ thể và phân giao công việc cho từng đơn vị cơ sở, từng bộ phận, từng người lao động trong hệ thống sản xuất
+121
+Nguyên tắc LPT có nghĩa:
+Công việc có thời gian thực hiện dài nhất làm trước.
+122
+Các nguyên tắc phân giao cho 1 đối tượng
+Tất cả ý kiến trên
+123
+Nguyên tắc FCFS có nghĩa:
+Công việc nào đặt hàng trước làm trước.
+124
+Dựa theo chỉ tiêu CRi, đâu là công việc hoàn thành trước thời hạn
+1.5
+125
+Mục đích của bài toán Hungary :
+Phân công công việc cho các máy để có tổng chi phí thực hiện hoặc thời gian hoàn thành là nhỏ nhất
+126
+CR = 1 có ý nghĩa gì
+Công việc hoàn thành đúng thời hạn
+127
+Bước thứ 2 trong bài toán Hungary là
+Chọn số nhỏ nhất trên mỗi cột, lấy tất cả các số trên cột trừ cho số nhỏ nhất đó.
+128
+Điều độ sản xuất là
+Những hoạt động xây dựng lịch trình sản xuất trong từng tuần cụ thể và phân giao công việc cho từng đơn vị cơ sở, từng bộ phận, từng người lao động trong hệ thống sản xuất
+129
+Bước thứ 1 trong bài toán Hungary là:
+Chọn số nhỏ nhất trên mỗi hàng, lấy tất cả các số trên hàng trừ cho số nhỏ nhất đó.
+130
+Dựa theo chỉ tiêu CRi, đâu là công việc không kịp hoàn thành đúng thời hạn
+0.8
+131
+Hôm nay là ngày 22, công việc A cần 4 ngày đã hoàn thành và đến ngày 28 phải bàn giao. Tính CRi
+1.5
+132
+Nguyên tắc sắp xếp thứ tự công việc LPT là:
+Công việc có thời gian thực hiện dài nhất làm trước
+133
+CR > 1 có ý nghĩa gì
+Công việc hoàn thành trước thời hạn
+134
+Nguyên tắc FCFS có nghĩa:
+Công việc nào đặt hàng trước làm trước.
+135
+Hôm nay là ngày 22, công việc A cần 4 ngày đã hoàn thành và đến ngày 26 phải bàn giao. Tính CRi
+1
+136
+Hôm nay là ngày 22, công việc A cần 12 ngày đã hoàn thành và đến ngày 30 phải bàn giao. Tính CRi
+0.67
+137
+Các nguyên tắc phân giao cho 1 đối tượng
+Tất cả ý kiến trên
+138
+« Liệt kê các công việc và thời gian thực hiện chúng trên từng máy, tìm công việc có thời gian nhỏ nhất », đây là một trong các bước của nguyên tắc 
+Johnson
+139
+Hôm nay là ngày 10, công việc A cần 10 ngày đã hoàn thành và đến ngày 15 phải bàn giao. Tính CRi
+0.5
+140
+Nội dung của quá trình điều độ sản xuất
+Tất cả ý kiến trên
+141
+Nguyên tắc sắp xếp thứ tự công việc EDD là:
+Công việc có thời điểm giao hàng trước làm trước
+142
+Dựa theo chỉ tiêu CRi, đâu là công việc hoàn thành trước thời hạn
+1.5
+143
+Nguyên tắc LPT có nghĩa:
+Công việc có thời gian thực hiện dài nhất làm trước.
+144
+Nguyên tắc SPT có nghĩa:
+Công việc có thời gian thực hiện ngắn nhất làm trước.
+145
+Dựa theo chỉ tiêu CRi, đâu là công việc hoàn thành đúng thời hạn
+1
+146
+Mục tiêu của nguyên tắc Johnson 
+Phải làm sao cho tổng thời gian thực hiện các công việc là nhỏ nhất
+147
+Thuật toán Hungary vận dụng trong điều độ cho bao nhiêu công việc
+Nhiều đối tượng
+148
+Mục đích của bài toán Hungary :
+Phân công công việc cho các máy để có tổng chi phí thực hiện hoặc thời gian hoàn thành là nhỏ nhất
+149
+Các nguyên tắc sắp xếp thứ tự công việc,gồm:
+FCFS,EDD,SPT,LPT,tỷ lệ tới hạn trước làm trước.
+150
+CR < 1 có ý nghĩa gì
+Công việc hoàn thành không đúng thời hạn
+151
+Nhà máy A chuyên sản xuất phụ tùng với tốc độ 250 chiếc/ngày. Loại phụ tùng này được sử dụng 12.000 chiếc/năm và trong năm xí nghiệp làm việc 200 ngày. Chi phí tồn trữ 20.000đ/1 đơn vị trong năm, phí đặt hàng mỗi lần là 300.000đ. Vậy số đặt hàng kinh tế là bao nhiêu?
+688 đơn vị.
+152
+Một nhà máy A chuyên đóng xà lan phải dùng Tole 5mm với nhu cầu 2000 tấm/năm. Chi phí đặt hàng mỗi lần là 200.000 đ/1 đơn hàng. Phí trữ hàng 12.000 đ/1 đơn vị (tấm/năm). Hãy xác định lượng mua vào tối ưu mỗi lần đặt hàng?
+300 tấm.
+153
+Chi phí nào sau đây không phải là chi phí dự trữ?
+Chi phí vận hành thiết bị
+154
+Một công ty lắp ráp điện tử có nhu cầ về dây dẫn TX512 là 10.000 đơn vị/năm. Thời gian làm việc hàng năm của công ty là 200 ngày. Thời gian vận chuyển là 3 ngày. Điểm đặt hàng lại (ROP) là.
+150 đơn vị.
+155
+Công thức nào đúng về ROP.
+C
+156
+Ưu điểm của dự trữ
+Tất cả ý kiến trên
+157
+Chi phí đặt hàng được xác định là:
+Tích giữa só lần đặt hàng trong năm và chi phí cho mỗi lần đặt hàng.
+158
+ROP là gì ?
+Điểm đặt hàng lại
+159
+Công thức đúng về số lượng đơn hàng mong muốn:
+A
+160
+Chi phí lưu kho được tính như sau:
+Ctt = Q.H/2
+161
+Trong phân tích ABC, mặt hàng loại C là
+Có tỷ lệ giá trị nhỏ, tỷ lệ mặt hàng cao
+162
+Chi phí đặt hàng được tính như sau:
+Cdh = D.S/Q
+163
+Những giả định quan trọng khi sử dụng mô hình EOQ, ngoại trừ:
+Có nhiều loại chi phí biến đổi
+164
+Mô hình nào mà hàng được đưa đến làm nhiều chuyến:
+POQ.
+165
+Chi phí lưu kho và Sản lượng 1 đơn hàng có quan hệ:
+Tỷ lệ nghịch
+166
+Trong mô hình EOQ, chi phí đặt hàng có mối quan hệ như thế nào với sản lượng một đơn hàng…
+Tỷ lệ nghịch
+167
+Trong mô hình EOQ, chi phí lưu kho có mối quan hệ như thế nào với sản lượng một đơn hàng
+Tỷ lệ thuận
+168
+Nếu tăng thêm lượng tồn kho an toàn thì điểm đặt hàng sẽ là:
+ROP = L x d + dự trữ an toàn
+169
+Trong phân tích ABC, mặt hàng loại A là
+Có tỷ lệ giá trị cao, tỷ lệ mặt hàng nhỏ
+170
+Xí nghiệp Lan Anh có nhu cầu về vải là 1000 cây/ năm. Số lượng mua hàng tối ưu là 100 cây/ 1 đơn hàng. Biết trong năm xí nghiệp làm việc với thời gian là 40 tuần. Xác định khoảng cách thời gian giữa hai đơn hàng ?
+T = 28
+171
+Mục tiêu hầu hết của các mô hình dự trữ đều nhằm
+Tối thiểu hóa tổng chi phí dự trữ
+172
+Chi phí đặt hàng và Sản lượng 1 đơn hàng có quan hệ:
+Tỷ lệ nghịch
+173
+Kỹ thuật phân tích ABC được đề xuất dựa vào nguyên tắc:
+Nguyên tắc Pareto
+174
+Công thức đúng về tổng chi phí hàng năm về tồn kho:
+B
+175
+Khấu trừ theo số lượng là:
+Giảm giá hàng hóa khi khách hàng mua loại hàng đó với số lượng lớn
+176
+Kỹ thuật phân tích ABC phân tổng số loại hàng tồn kho của nhóm C chiếm khoảng bao nhiêu phần trăm tồng giá trị hàng tồn kho:
+5%
+177
+Nhược điểm của dự trữ
+Tất cả các ý kiến trên
+178
+Trong phân tích ABC, mặt hàng loại A là
+Có tỷ lệ giá trị cao, tỷ lệ mặt hàng nhỏ
+179
+Mô hình nào mà hàng được đưa đến làm nhiều chuyến:
+POQ.
+180
+Ưu điểm của dự trữ
+Tất cả ý kiến trên
+181
+Kỹ thuật phân tích ABC được đề xuất dựa vào nguyên tắc:
+Nguyên tắc Pareto
+182
+Công thức đúng về số lượng đơn hàng mong muốn:
+A
+183
+Một nhà máy A chuyên đóng xà lan phải dùng Tole 5mm với nhu cầu 2000 tấm/năm. Chi phí đặt hàng mỗi lần là 200.000 đ/1 đơn hàng. Phí trữ hàng 12.000 đ/1 đơn vị (tấm/năm). Hãy xác định lượng mua vào tối ưu mỗi lần đặt hàng?
+300 tấm.
+184
+Chi phí đặt hàng được xác định là:
+Tích giữa só lần đặt hàng trong năm và chi phí cho mỗi lần đặt hàng.
+185
+Mục tiêu hầu hết của các mô hình dự trữ đều nhằm
+Tối thiểu hóa tổng chi phí dự trữ
+186
+Nếu tăng thêm lượng tồn kho an toàn thì điểm đặt hàng sẽ là:
+ROP = L x d + dự trữ an toàn
+187
+ROP là gì ?
+Điểm đặt hàng lại
+188
+Trong mô hình EOQ, chi phí lưu kho có mối quan hệ như thế nào với sản lượng một đơn hàng
+Tỷ lệ thuận
+189
+Công thức nào đúng về ROP.
+C
+190
+Nhà máy A chuyên sản xuất phụ tùng với tốc độ 250 chiếc/ngày. Loại phụ tùng này được sử dụng 12.000 chiếc/năm và trong năm xí nghiệp làm việc 200 ngày. Chi phí tồn trữ 20.000đ/1 đơn vị trong năm, phí đặt hàng mỗi lần là 300.000đ. Vậy số đặt hàng kinh tế là bao nhiêu?
+688 đơn vị.
+191
+Kỹ thuật phân tích ABC phân tổng số loại hàng tồn kho của nhóm C chiếm khoảng bao nhiêu phần trăm tồng giá trị hàng tồn kho:
+5%
+192
+Chi phí lưu kho và Sản lượng 1 đơn hàng có quan hệ:
+Tỷ lệ nghịch
+193
+Chi phí nào sau đây không phải là chi phí dự trữ?
+Chi phí vận hành thiết bị
+194
+Công thức đúng về tổng chi phí hàng năm về tồn kho:
+B
+195
+Chi phí đặt hàng và Sản lượng 1 đơn hàng có quan hệ:
+Tỷ lệ nghịch
+196
+Khấu trừ theo số lượng là:
+Giảm giá hàng hóa khi khách hàng mua loại hàng đó với số lượng lớn
+197
+Nhược điểm của dự trữ
+Tất cả các ý kiến trên
+198
+Một công ty lắp ráp điện tử có nhu cầ về dây dẫn TX512 là 10.000 đơn vị/năm. Thời gian làm việc hàng năm của công ty là 200 ngày. Thời gian vận chuyển là 3 ngày. Điểm đặt hàng lại (ROP) là.
+150 đơn vị.
+199
+Trong phân tích ABC, mặt hàng loại C là
+Có tỷ lệ giá trị nhỏ, tỷ lệ mặt hàng cao
+200
+Trong mô hình EOQ, chi phí đặt hàng có mối quan hệ như thế nào với sản lượng một đơn hàng…
+Tỷ lệ nghịch
+201
+Để đo lường sự tin cậy của toàn bộ hệ thống mà mỗi bộ phận cấu thành có độ tin cậy riêng biệt, khác nhau, thì ta có thể dùng công thức sau đây :
+Rs = R1 * R2 * R3…* Rn
+202
+Đâu không phải là bản chất của bảo trì dự phòng
+Sửa chữa khi máy móc, thiết bị bị ngừng hoạt động
+203
+Bảo trì được chia làm 2 hình thức là
+Bảo trì dự phòng, Bảo trì hiệu chỉnh
+204
+Trong phương pháp bảo trì bằng việc cải thiện từng bộ phận hợp thành, thuật ngữ "thời gian trung bình giữa hai lần hư hỏng" được ký hiệu là
+MTBF
+205
+Đâu không phải là vai trò của công tác bảo trì:
+Giúp dự báo chính xác nhu cầu sản phẩm
+206
+R1 = 0,9 ; R2 = 0,85 ; R3 = 0,95. Hãy tính Rs. Cho biết sản phẩm này gồm 3 bộ phận hợp thành lắp liên tiếp
+0,726
+207
+Thuật ngữ thường dùng nhất trong phân tích sự tin cậy là "thời gian trung bình giữa hai lần hư hỏng" (Mean Time Between Failure MTBF), được tính theo công thức
+MTBF = 1/ FR(n)
+208
+Đâu không phải là bản chất của bảo trì dự phòng
+Sửa chữa khi máy móc, thiết bị bị ngừng hoạt động
+209
+Hình thức của bảo trì bao gồm:
+Bảo trì hiệu chỉnh
+210
+Hình thức của bảo trì bao gồm
+Cả B và C
+211
+Nhược điểm của bảo trì dự phòng là:
+Tất cả ý kiến trên
+212
+Sự cần thiết của công tác bảo trì là
+Tất cả các ý kiến trên
+213
+Trong hoạt động bảo trì, FR là gì
+Tỷ lệ hư hỏng
+214
+Một bộ phận có độ tin cậy bằng 0,90 và chúng ta đặt thêm một bộ phận nữa cũng có độ tin cậy bằng 0,90 để dự phòng. Lúc đó độ tin cậy của hệ thống sẽ là
+0.99
+215
+Hình thức của bảo trì bao gồm
+Bảo trì dự phòng
+216
+Hình thức của bảo trì bao gồm
+Cả B và C
+217
+Đâu không phải là bản chất của bảo trì dự phòng
+Sửa chữa khi máy móc, thiết bị bị ngừng hoạt động
+218
+Hình thức của bảo trì bao gồm:
+Bảo trì hiệu chỉnh
+219
+Bảo trì được chia làm 2 hình thức là
+Bảo trì dự phòng, Bảo trì hiệu chỉnh
+220
+Đâu không phải là bản chất của bảo trì dự phòng
+Sửa chữa khi máy móc, thiết bị bị ngừng hoạt động
+221
+Nhược điểm của bảo trì dự phòng là:
+Tất cả ý kiến trên
+222
+Trong phương pháp bảo trì bằng việc cải thiện từng bộ phận hợp thành, thuật ngữ "thời gian trung bình giữa hai lần hư hỏng" được ký hiệu là
+MTBF
+223
+R1 = 0,9 ; R2 = 0,85 ; R3 = 0,95. Hãy tính Rs. Cho biết sản phẩm này gồm 3 bộ phận hợp thành lắp liên tiếp
+0,726
+224
+Để đo lường sự tin cậy của toàn bộ hệ thống mà mỗi bộ phận cấu thành có độ tin cậy riêng biệt, khác nhau, thì ta có thể dùng công thức sau đây :
+Rs = R1 * R2 * R3…* Rn
+225
+Thuật ngữ thường dùng nhất trong phân tích sự tin cậy là "thời gian trung bình giữa hai lần hư hỏng" (Mean Time Between Failure MTBF), được tính theo công thức
+MTBF = 1/ FR(n)
+226
+Đâu không phải là vai trò của công tác bảo trì:
+Giúp dự báo chính xác nhu cầu sản phẩm
+227
+Sự cần thiết của công tác bảo trì là
+Tất cả các ý kiến trên
+228
+Trong hoạt động bảo trì, FR là gì
+Tỷ lệ hư hỏng
+229
+Một bộ phận có độ tin cậy bằng 0,90 và chúng ta đặt thêm một bộ phận nữa cũng có độ tin cậy bằng 0,90 để dự phòng. Lúc đó độ tin cậy của hệ thống sẽ là
+0.99
+230
+Hình thức của bảo trì bao gồm
+Bảo trì dự phòng
+231
+Đâu không phải là bản chất của bảo trì dự phòng
+Sửa chữa khi máy móc, thiết bị bị ngừng hoạt động
+232
+Đâu không phải là bản chất của bảo trì dự phòng
+Sửa chữa khi máy móc, thiết bị bị ngừng hoạt động
+233
+Để đo lường sự tin cậy của toàn bộ hệ thống mà mỗi bộ phận cấu thành có độ tin cậy riêng biệt, khác nhau, thì ta có thể dùng công thức sau đây :
+Rs = R1 * R2 * R3…* Rn
+234
+Một bộ phận có độ tin cậy bằng 0,90 và chúng ta đặt thêm một bộ phận nữa cũng có độ tin cậy bằng 0,90 để dự phòng. Lúc đó độ tin cậy của hệ thống sẽ là
+0.99
+235
+Nhược điểm của bảo trì dự phòng là:
+Tất cả ý kiến trên
+236
+Hình thức của bảo trì bao gồm
+Bảo trì dự phòng
+237
+Trong phương pháp bảo trì bằng việc cải thiện từng bộ phận hợp thành, thuật ngữ "thời gian trung bình giữa hai lần hư hỏng" được ký hiệu là
+MTBF
+238
+Sự cần thiết của công tác bảo trì là
+Tất cả các ý kiến trên
+239
+Hình thức của bảo trì bao gồm
+Cả B và C
+240
+Thuật ngữ thường dùng nhất trong phân tích sự tin cậy là "thời gian trung bình giữa hai lần hư hỏng" (Mean Time Between Failure MTBF), được tính theo công thức
+MTBF = 1/ FR(n)
+241
+Trong hoạt động bảo trì, FR là gì
+Tỷ lệ hư hỏng
+242
+Bảo trì được chia làm 2 hình thức là
+Bảo trì dự phòng, Bảo trì hiệu chỉnh
+243
+Đâu không phải là vai trò của công tác bảo trì:
+Giúp dự báo chính xác nhu cầu sản phẩm
+244
+R1 = 0,9 ; R2 = 0,85 ; R3 = 0,95. Hãy tính Rs. Cho biết sản phẩm này gồm 3 bộ phận hợp thành lắp liên tiếp
+0,726
+245
+Hình thức của bảo trì bao gồm:
+Bảo trì hiệu chỉnh
+246
+Trong phương pháp bảo trì bằng việc cải thiện từng bộ phận hợp thành, thuật ngữ "thời gian trung bình giữa hai lần hư hỏng" được ký hiệu là
+MTBF
+247
+Một bộ phận có độ tin cậy bằng 0,90 và chúng ta đặt thêm một bộ phận nữa cũng có độ tin cậy bằng 0,90 để dự phòng. Lúc đó độ tin cậy của hệ thống sẽ là
+0.99
+248
+Sự cần thiết của công tác bảo trì là
+Tất cả các ý kiến trên
+249
+Hình thức của bảo trì bao gồm
+Bảo trì dự phòng
+250
+Hình thức của bảo trì bao gồm
+Cả B và C
+251
+Đâu không phải là đặc trưng của cung ứng dịch vụ
+Lựa chọn địa điểm đặt doanh nghiệp gần vùng nguyên vật liệu
+252
+Các chiến lược tác nghiệp cạnh tranh dựa trên
+Tất cả các ý kiến trên
+253
+Các chiến lược tác nghiệp cạnh tranh dựa trên
+Chi phí, khác biệt hóa, sự đáp ứng
+254
+Đây là các quyết định quản trị tác nghiệp, ngoại trừ
+Quản trị tài chính
+255
+Đặc trưng của dịch vụ là:
+Tất cả các ý kiến trên
+256
+Đây là các quyết định quản trị tác nghiệp, ngoại trừ
+Lập kế hoạch quảng bá hình ảnh sản phẩm
+257
+Đây là vai trò của chiến lược tác nghiệp, ngoại trừ
+Tăng doanh thu
+258
+Đây là các quyết định quản trị tác nghiệp, ngoại trừ
+Kế hoạch bán hàng
+259
+Đặc trưng của hàng hóa là:
+Tất cả các ý kiến trên
+260
+Đâu không phải là đặc trưng của sản xuất hàng hóa:
+Hầu hết không thể lưu kho
+261
+Đâu không phải là đặc trưng của sản xuất hàng hóa:
+Lựa chọn địa điểm đặt doanh nghiệp gần vùng nguyên vật liệu
+262
+Đặc trưng của hàng hóa là:
+Tất cả các ý kiến trên
+263
+Đâu không phải là đặc trưng của cung ứng dịch vụ
+Tiêu chuẩn chất lượng mang tính khách quan
+264
+Đặc trưng của dịch vụ là:
+Tất cả các ý kiến trên
+265
+Các chiến lược tác nghiệp cạnh tranh dựa trên
+Chi phí, khác biệt hóa, sự đáp ứng
+266
+Đâu không phải là đặc trưng của sản xuất hàng hóa:
+Hầu hết không thể lưu kho
+267
+Đâu không phải là đặc trưng của cung ứng dịch vụ
+Lựa chọn địa điểm đặt doanh nghiệp gần vùng nguyên vật liệu
+268
+Đây là các quyết định quản trị tác nghiệp, ngoại trừ
+Quản trị tài chính
+269
+Đây là vai trò của chiến lược tác nghiệp, ngoại trừ
+Tăng doanh thu
+270
+Các chiến lược tác nghiệp cạnh tranh dựa trên
+Chi phí, khác biệt hóa, sự đáp ứng
+271
+Đặc trưng của dịch vụ là:
+Tất cả các ý kiến trên
+272
+Các chiến lược tác nghiệp cạnh tranh dựa trên
+Tất cả các ý kiến trên
+273
+Các chiến lược tác nghiệp cạnh tranh dựa trên
+Chi phí, khác biệt hóa, sự đáp ứng
+274
+Đây là các quyết định quản trị tác nghiệp, ngoại trừ
+Lập kế hoạch quảng bá hình ảnh sản phẩm
+275
+Đặc trưng của hàng hóa là:
+Tất cả các ý kiến trên
+276
+Đây là các quyết định quản trị tác nghiệp, ngoại trừ
+Kế hoạch bán hàng
+277
+Đâu không phải là đặc trưng của cung ứng dịch vụ
+Tiêu chuẩn chất lượng mang tính khách quan
+278
+Đâu không phải là đặc trưng của sản xuất hàng hóa:
+Lựa chọn địa điểm đặt doanh nghiệp gần vùng nguyên vật liệu
+279
+Đặc trưng của hàng hóa là:
+Tất cả các ý kiến trên
+280
+Đặc trưng của dịch vụ là:
+Tất cả các ý kiến trên
+281
+Các chiến lược tác nghiệp cạnh tranh dựa trên
+Chi phí, khác biệt hóa, sự đáp ứng
+282
+Đâu không phải là đặc trưng của sản xuất hàng hóa:
+Hầu hết không thể lưu kho
+283
+Đặc trưng của dịch vụ là:
+Tất cả các ý kiến trên
+284
+Đâu không phải là đặc trưng của cung ứng dịch vụ
+Lựa chọn địa điểm đặt doanh nghiệp gần vùng nguyên vật liệu
+285
+Đây là các quyết định quản trị tác nghiệp, ngoại trừ
+Lập kế hoạch quảng bá hình ảnh sản phẩm
+286
+Đặc trưng của hàng hóa là:
+Tất cả các ý kiến trên
+287
+Đây là vai trò của chiến lược tác nghiệp, ngoại trừ
+Tăng doanh thu
+288
+Các chiến lược tác nghiệp cạnh tranh dựa trên
+Tất cả các ý kiến trên
+289
+Đặc trưng của dịch vụ là:
+Tất cả các ý kiến trên
+290
+Đâu không phải là đặc trưng của cung ứng dịch vụ
+Tiêu chuẩn chất lượng mang tính khách quan
+291
+Đây là các quyết định quản trị tác nghiệp, ngoại trừ
+Quản trị tài chính
+292
+Đặc trưng của hàng hóa là:
+Tất cả các ý kiến trên
+293
+Đâu không phải là đặc trưng của sản xuất hàng hóa:
+Lựa chọn địa điểm đặt doanh nghiệp gần vùng nguyên vật liệu
+294
+Đây là các quyết định quản trị tác nghiệp, ngoại trừ
+Kế hoạch bán hàng
+295
+Các chiến lược tác nghiệp cạnh tranh dựa trên
+Chi phí, khác biệt hóa, sự đáp ứng
+296
+Đây là các quyết định quản trị tác nghiệp, ngoại trừ
+Lập kế hoạch quảng bá hình ảnh sản phẩm
+297
+Đâu không phải là đặc trưng của sản xuất hàng hóa:
+Hầu hết không thể lưu kho
+298
+Các chiến lược tác nghiệp cạnh tranh dựa trên
+Chi phí, khác biệt hóa, sự đáp ứng
+299
+Đâu không phải là đặc trưng của cung ứng dịch vụ
+Tiêu chuẩn chất lượng mang tính khách quan
+300
+Đặc trưng của dịch vụ là:
+Tất cả các ý kiến trên
